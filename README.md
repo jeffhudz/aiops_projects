@@ -1,3 +1,5 @@
+### Basic git commands
+
 Clonning source code from repo
 
 
@@ -53,3 +55,5 @@ To remove file from staging area
 '''
 git rm --cached <filename>
 '''
+
+### to create runtime environment for project
