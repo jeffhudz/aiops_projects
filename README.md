@@ -11,7 +11,7 @@ Replace "you@example.com" with github email id
 git config --global user.email "you@example.com"
 '''
 
-Repca
+Replace "Your name" with username
 '''
 git config --global user.name "Your Name"
 ''''
